@@ -2,9 +2,9 @@
 <DOCTYPE html>
 <html>
 <head>
-   <title> Arvin's✨💗 </title>
+   <title> Henrick✨💗 </title>
    <script type="text/javascript">
-   alert("Hello by!")
+   alert("Hello Mariane!")
    alert("I hope you're doing well")
    alert("here's a little something I made you!")
    alert("I hope you'll like it!")
@@ -23,7 +23,8 @@ body{
     }
 </style>
    <img src="https://c.tenor.com/3RkBSAwE4xgAAAAj/quby-pentol.gif"/>
-   <p style="color: white"> I've been missing you and wanted to say hi.</p>
+   <p style="color: white"> hi Po ako to SI henrick
+.</p>
    
    <img src="https://c.tenor.com/ux7RPst0v1MAAAAj/quby-pentol.gif"/>
    <p style="color: white"> I hope you're doing fine</p>
